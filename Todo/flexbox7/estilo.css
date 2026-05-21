@@ -1,0 +1,13 @@
+.navegacion {
+    display: flex;
+    justify-content: space-between;
+}
+#id1 {
+    flex: start;
+}
+#id2 {
+    flex: 1;
+}
+#id3 {
+    flex: end;
+}

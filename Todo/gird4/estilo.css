@@ -1,0 +1,58 @@
+.todo {
+    background-color: black;
+    display: grid;
+    grid-template-rows: auto auto auto;
+}
+header,main,footer {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    height: 100%;
+}
+article {
+    height: 50px;
+}
+#ola1 {
+    display: grid;
+    justify-self: start;
+    align-self: start;
+}
+#ola2 {
+    display: grid;
+    justify-self: center;
+    align-self: center;
+}
+#ola3 {
+    display: grid;
+    justify-self: end;
+    align-self: end;
+}
+#ola4 {
+    display: grid;
+    justify-self: start;
+    align-self: start;
+}
+#ola5 {
+    display: grid;
+    justify-self: center;
+    align-self: center;
+}
+#ola6 {
+    display: grid;
+    justify-self: end;
+    align-self: end;
+}
+#ola7 {
+    display: grid;
+    justify-self: start;
+    align-self: start;
+}
+#ola8 {
+    display: grid;
+    justify-self: center;
+    align-self: center;
+}
+#ola9 {
+    display: grid;
+    justify-self: end;
+    align-self: end;
+}

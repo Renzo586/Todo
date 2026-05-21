@@ -1,0 +1,11 @@
+.ola {
+    display: flex;
+    justify-content: flex-start;
+}
+#img {
+    width: auto;
+}
+#img {
+    width: 150px;
+    height: 250px;
+}
